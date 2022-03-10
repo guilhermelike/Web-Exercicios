@@ -1,0 +1,56 @@
+body{
+    background-color: rgb(154, 225, 243);
+}
+#menu ul{
+    background-color: black;
+    color: white;
+    display: flex;
+    background-size: 600px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.preto ul li{
+    list-style-type: none;
+    padding-right: 54px;
+    text-align: left;
+    font-size: 17px;
+    margin-left: -25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#container{
+    background-color: rgb(228, 222, 222);
+    margin-left: 35%;
+    margin-right: 35%;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-top: 30px;
+}
+
+#header{
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    margin-top: -10px;
+}
+
+#content{
+    margin-left: 20px;
+    margin-right: 20px;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+
+.subtitle{
+    font: Times, bolder;
+}
+
+.recuo{
+    margin-left: 50px;
+}
+
+.destaque{
+    color: red;
+}
